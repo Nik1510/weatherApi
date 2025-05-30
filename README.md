@@ -10,8 +10,7 @@ Watch a quick video demo 👉 [Weather App Demo](https://x.com/nikhilshaw575/sta
 
 - Fetches real-time weather data based on city name
 - Displays temperature, weather description, and more
-- Uses environment variables for API security
-- Deployed on Vercel for instant global access!
+
 
 ---
 
