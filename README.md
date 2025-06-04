@@ -22,10 +22,3 @@ Watch a quick video demo 👉 [Weather App Demo](https://x.com/nikhilshaw575/sta
 
 ---
 
-## 🔧 Installation
-
-1️⃣ **Clone the repo:**
-
-```bash
-git clone https://github.com/Nik1510/weather-app.git
-cd weather-app
