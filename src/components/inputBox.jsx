@@ -2,7 +2,6 @@ import React from 'react'
 import useWeatherInfo from '../hooks/useWeather';
 import { useState } from 'react';
 function InputBox() {
-
     const [city,setCity] =useState('');
     const [serachCity,setSearchCity] = useState('');
     const {weatherData,error} = useWeatherInfo(serachCity);
